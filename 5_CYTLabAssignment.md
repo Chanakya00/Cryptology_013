@@ -8,7 +8,7 @@ To write Python programs to perform encryption and decryption using:
 4. Atbash Cipher
 5. Affine Cipher
 
-**Note:** The programs preserve uppercase/lowercase letters and leave spaces, numbers and special characters unchanged.
+**Note:** The programs preserve uppercase/lowercase letters and leave spaces, numbers and special characters are unchanged.
 
 ---
 
